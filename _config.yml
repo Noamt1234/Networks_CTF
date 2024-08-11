@@ -20,9 +20,9 @@
 
 title: Networks_CTF
 email: noamtwito19@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-My name is Noam Twito, and I graduated with a B.Sc. in Computer Science from JCT.
-I hope youll enjoy my projects.
+description: >
+  My name is Noam Twito, and I graduated with a B.Sc. in Computer Science from JCT.
+  I hope you'll enjoy my projects.
 baseurl: "/Networks_CTF" # the subpath of your site, e.g. /blog
 url: "https://noamt1234.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: >- linkedin.com/in/noam-twito333550310
