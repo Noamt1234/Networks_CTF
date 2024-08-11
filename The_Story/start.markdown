@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<style> # hide the page title
+<style> # DO NOT ADD THE TITLE TO THE PANEL AT THE TOP OF THE SCREEN:
 .page-title {
   display: none;
 }
