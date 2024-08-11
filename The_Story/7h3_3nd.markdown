@@ -2,22 +2,22 @@
 layout: default
 ---
 
-# The Victory
+# The End
 
-You demonstrated a deep understanding in OS, Networks, and Encryption concepts! **1337! The lock was released!**
-
+You demonstrated a deep understanding in OS, Networks, and Encryption concepts!<br>
+**1337! The lock was released!**<br>
+<br>
 ---
-
+<br>
 Ben released the lock. Alex's face changed, and suddenly she looked like herself again.
 A wide smile spread across both of their faces and they hugged.
 
 The entire unit prepared a party to celebrate Alex's return. Her parents and closest friends were invited. The hall was filled with joy.
 A feeling of victory.
 
-But,
-Ben and Alex knew that while they were celebrating, the Iranian army was growing stronger.
-Ben and Alex knew,
-that this;
-was not the end...
-
+But,<br>
+Ben and Alex knew that while they were celebrating, the Iranian army was growing stronger.<br>
+Ben and Alex knew,<br>
+that this;<br>
+was not the end...<br>
 [Eclipse](https://www.youtube.com/watch?v=7-mFsGm1uvQ)
