@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# The Story
+## The Story
 Days felt like weeks, and weeks like years. She heard footsteps everywhere;<br>
 and a distant voice saying: "Use the alternative port!".<br>
 Everything around her spun and she couldn't see clearly.<br><br>
