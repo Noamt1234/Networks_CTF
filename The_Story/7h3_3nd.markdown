@@ -7,7 +7,7 @@ description: null
 # The End
 
 You demonstrated a deep understanding in OS, Networks, and Encryption concepts!<br>
-**1337! The lock was released!**<br>
+**1337! The lock was released!**<br><br>
 
 ---
 
