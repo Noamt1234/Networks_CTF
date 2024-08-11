@@ -1,5 +1,6 @@
 ---
 layout: default
+title: The Story
 ---
 # The Story
 Days felt like weeks, and weeks like years. She heard footsteps everywhere;<br>
