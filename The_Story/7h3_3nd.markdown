@@ -1,19 +1,22 @@
 ---
 layout: default
+title: null
+description: null
 ---
 
 # The End
 
 You demonstrated a deep understanding in OS, Networks, and Encryption concepts!<br>
-**1337! The lock was released!**
+**1337! The lock was released!**<br>
 
 ---
 
 <br>
-Ben released the lock. Alex's face changed, and suddenly she looked like herself again.
+Ben released the lock. Alex's face changed, and suddenly she looked like herself again.<br>
 A wide smile spread across both of their faces and they hugged.
 
-The entire unit prepared a party to celebrate Alex's return. Her parents and closest friends were invited. The hall was filled with joy.
+The entire unit prepared a party to celebrate Alex's return.<br>
+Her parents and closest friends were invited. The hall was filled with joy.<br>
 A feeling of victory.
 
 But,<br>
