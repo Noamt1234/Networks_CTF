@@ -1,8 +1,12 @@
 ---
 layout: default
-title: null
-description: null
 ---
+
+<style> # DO NOT ADD THE TITLE TO THE NAVIGATION BAR AT THE TOP OF THE SCREEN:
+.page-title {
+  display: none;
+}
+</style>
 
 # The End
 
