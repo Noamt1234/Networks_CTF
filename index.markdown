@@ -11,4 +11,4 @@ title: Welcome
 
 <br>
 ## Hack the Flag: Think You Have What It Takes?
-[Ready To Prove Your Skills?](https://noamt1234.github.io/Networks_CTF/The_story/start.html)
+[Ready To Prove Your Skills?](https://noamt1234.github.io/Networks_CTF/The_Story/start.html)
