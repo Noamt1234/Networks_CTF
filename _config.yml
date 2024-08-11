@@ -25,8 +25,9 @@ description: |
   I hope you'll enjoy my projects.
 baseurl: "/Networks_CTF" # the subpath of your site, e.g. /blog
 url: "https://noamt1234.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: | linkedin.com/in/noam
--twito-333550310
+linkedin_username: | 
+  linkedin.com/in/noam
+  -twito-333550310
 github_username:  Noamt1234
 
 # Build settings
