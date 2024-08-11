@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Welcome
+permalink: /
 ---
+
+## Requirements
+
+- Requirement 1
+- Requirement 2
+- Requirement 3
+
+## Hack the Flag: Think You Have What It Takes?
+[Ready To Prove Your Skills??](https://noamt1234.github.io/Networks_CTF/start.html)
