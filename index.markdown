@@ -11,6 +11,5 @@ title: Welcome
 
 <br>
 <br>
-<br>
 ## Hack the Flag: Think You Have What It Takes?
 [Ready To Prove Your Skills??](https://noamt1234.github.io/Networks_CTF/start.html)
