@@ -20,4 +20,4 @@ He would do anything to bring his dear partner back.<br>
 
 He found a single .pyz file that's supposed to lead to his friend's rescue. Ben would do anything to bring her back.<br><br>
 
-[Bring her back?](https://noamt1234.github.io/Networks_CTF/The_story/lock.pyz)
+[Bring her back?](https://noamt1234.github.io/Networks_CTF/The_Story/lock.pyz)
