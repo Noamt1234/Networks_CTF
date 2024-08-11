@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-<style>
-.site-header {
-  display: none;
-}
-</style>
 
 ## The Story
 Days felt like weeks, and weeks like years. She heard footsteps everywhere;<br>
