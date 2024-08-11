@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<style> # DO NOT ADD THE TITLE TO THE PANEL AT THE TOP OF THE SCREEN:
+<style> # DO NOT ADD THE TITLE TO THE NAVIGATION BAR AT THE TOP OF THE SCREEN:
 .page-title {
   display: none;
 }
