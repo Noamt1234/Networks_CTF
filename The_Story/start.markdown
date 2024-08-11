@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 # The Story
 Days felt like weeks, and weeks like years. She heard footsteps everywhere;<br>
