@@ -27,5 +27,5 @@ But,<br>
 Ben and Alex knew that while they were celebrating, the Iranian army was growing stronger.<br>
 Ben and Alex knew,<br>
 that this;<br>
-was not the end...<br>
+was not the end...<br><br>
 [Eclipse](https://www.youtube.com/watch?v=7-mFsGm1uvQ)
