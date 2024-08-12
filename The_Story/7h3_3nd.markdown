@@ -1,6 +1,5 @@
 ---
 layout: page
-title: The end
 ---
 
 <style> # DO NOT ADD THE TITLE TO THE NAVIGATION BAR AT THE TOP OF THE SCREEN:
